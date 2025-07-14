@@ -15976,5 +15976,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494231&idx=1&sn=108ce757a60b9c8454839dc15a6c7df4": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480563&idx=1&sn=4a7bad3b21c045e07a6af0044e20f2d8": "秦安：强烈的信号！将8家台湾实体列入出口管制，堵住天大的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=1&sn=79828c12688c4daf8723f32f2877dc05": "CVE-2025-5777｜Citrix NetScaler ADC和NetScaler Gateway内存泄漏漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492157&idx=1&sn=3c92664fd962247eef58f7b0f582a3a4": "渗透测试0day漏洞归属与外包源代码安全责任探讨。｜总第293周",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=4&sn=4e7c93291c55d089867addbbd0436070": "【安全圈】Trendyol 披露 Meta 存在漏洞：Prompt Injection 成功率高达 50%"
 }
