@@ -16003,5 +16003,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498093&idx=4&sn=2a0d98c8abc8f3deb69dea6a18c068a9": "离职次日利用公司OA系统漏洞 成功预订11张机票 判处拘役六个月",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488300&idx=1&sn=6a3f92ca1b192c239d2e4cd802c483b3": "HW（2025-7-15）上午护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493714&idx=3&sn=16c770849c0a1deaa29dbeb652958ead": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500108&idx=1&sn=5214bcced9f87f936538ab7e10b1fe4f": "CNVD漏洞周报2025年第26期"
 }
