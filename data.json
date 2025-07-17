@@ -16055,5 +16055,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583835&idx=1&sn=2754957b43cf398a180399f4a359413c": "Citrix Bleed 2漏洞被网络犯罪分子利用进行攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526818&idx=1&sn=94387d1e5ab9647a7dd70aa9f62aa3f0": "VMware ESXi、Workstation、Fusion及Tools多个漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526818&idx=1&sn=94387d1e5ab9647a7dd70aa9f62aa3f0": "VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "代码审计-Java项目-组件RCE代码执行漏洞审计"
 }
