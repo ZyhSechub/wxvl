@@ -16071,5 +16071,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487007&idx=1&sn=970c607c01da42be4e8fd7696b20cd75": "Apache服务器漏洞被黑客利用，Linuxsys挖矿病毒悄然蔓延",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "NVIDIA 容器工具包允许攻击者执行特权代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484515&idx=1&sn=d274ebd46203ed436d99ecc51abf3caf": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484515&idx=1&sn=d274ebd46203ed436d99ecc51abf3caf": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=4&sn=def91ead440f78d348db5fd03eb51f18": "SonicWall SMA设备零日RCE漏洞遭利用，部署OVERSTEP勒索软件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211641&idx=1&sn=ff2dc976a59a468983e558afa92a912f": "安天智甲终端防御系统（EDR）产品升级通告：紧急防护微信PC版远程代码执行（RCE）漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500101&idx=1&sn=b23db40f233deddedec40faa521a9637": "红队视角：.NET Web.config 漏洞实战挖掘与利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484806&idx=1&sn=f3f4e653ec05b15bd9f075a811b43f8e": "微信3.9 RCE漏洞 听说已有受害者",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现"
 }
