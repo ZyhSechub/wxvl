@@ -16091,5 +16091,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490465&idx=1&sn=798252ff23b627acb67f5d6d67f927ec": "【高危漏洞预警】NVIDIA Container Toolkit 容器逃逸漏洞CVE-2025-23266",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484517&idx=1&sn=e03f98bbb89978b550a97c773fa5a27a": "盘点闭眼就扫的RCE漏洞利用工具",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=3&sn=91850abc2376b8b501446d5d75e94086": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184321&idx=1&sn=8e7db09c9c1be0781a68a45bef949c91": "微信3.9版本RCE漏洞，OneSEC紧急缓解、检测方法",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581322&idx=1&sn=baf9027c193bf64dd369e81724d98582": "无需升级！360终端安全智能体全面防护微信PC端路径穿越漏洞威胁",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MzkwNDU1Mw==&mid=2247485850&idx=1&sn=f495ab99b95b02c18a410789c7a25244": "nacos漏洞利用工具"
 }
